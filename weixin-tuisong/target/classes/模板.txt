@@ -1,0 +1,13 @@
+地区：安徽省 滁州市 全椒县
+日期：{{riqi.DATA}}
+{{beizhu.DATA}}
+天气：{{tianqi.DATA}}
+最低温度：{{low.DATA}} 度
+最高温度：{{high.DATA}} 度
+
+你今年{{Age.DATA}}岁了
+距离你的生日还有 {{shengri.DATA}} 天
+
+夸夸宝：{{caihongpi.DATA}}
+
+今日小励志：{{jinju.DATA}}
